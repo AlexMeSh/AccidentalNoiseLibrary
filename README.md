@@ -4,4 +4,4 @@ A modified C# port of the Accidental Noise Library by Joshua Tippetts. It is sti
 Add in Unity by UPM:
 1. Open Packages/manifest.json
 2. Add to dependencies 
-""
+"com.custom.perlin_noise" : 
