@@ -4,7 +4,7 @@ A modified C# port of the Accidental Noise Library by Joshua Tippetts. It is sti
 Add in Unity by UPM:
 1. Open Packages/manifest.json
 2. Add to dependencies 
-"com.custom.perlin_noise": "git:https://github.com/AlexMeSh/AccidentalNoiseLibrary.git"
+"com.custom.perlin_noise": "https://github.com/AlexMeSh/AccidentalNoiseLibrary.git"
 3. Save 
 4. Open Unity
 
